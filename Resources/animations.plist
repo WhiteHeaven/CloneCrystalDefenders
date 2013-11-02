@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>animations</key>
+        <dict>
+            <key>stand_A</key>
+            <dict>
+                <key>delay</key>
+                <real>0.5</real>
+                <key>frames</key>
+                <array>
+                  <string>Mage_A01.png</string>
+                  <string>Mage_A02.png</string>
+
+                </array>
+             </dict>
+			 <key>stand_B</key>
+            <dict>
+                <key>delay</key>
+                <real>0.5</real>
+                <key>frames</key>
+                <array>
+                  <string>mage01.png</string>
+                  <string>mage02.png</string>
+
+                </array>
+             </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>skeleton.png</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:1e1d7ef3d684643c4e3867066202f999$</string>
+            <key>textureFileName</key>
+            <string>skeleton.png</string>
+        </dict>
+    </dict>
+</plist>
